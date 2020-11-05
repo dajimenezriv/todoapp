@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Hack Your Life</string>
+
+    <!-- Titles -->
+    <string name="lists">Lists</string>
+    <string name="tasks">Tasks</string>
+    <string name="habits">Habits</string>
+    <string name="products">Products</string>
+
+    <string name="new_list">New List</string>
+    <string name="new_task">New Task</string>
+    <string name="new_habit">New Habit</string>
+    <string name="new_product">New Product</string>
+
+
+    <string name="edit_list">Edit List</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="edit_habit">Edit Habit</string>
+    <string name="edit_product">Edit Product</string>
+
+    <!-- Forms -->
+    <string name="name_camp">Name:</string>
+    <string name="name_hint">Name</string>
+
+    <string name="description_camp">Description:</string>
+    <string name="description_hint">Description</string>
+
+    <string name="date_camp">Date:</string>
+    <string name="time_camp">Time:</string>
+
+    <string name="days_left_camp">Days Left:</string>
+    <string name="init_date_camp">Init Date:</string>
+    <string name="finish_date_camp">Finish Date:</string>
+
+    <string name="days_to_finish_camp">Days To Finish:</string>
+    <string name="days_to_finish_hint">66</string>
+    <string name="days_of_week_camp">Days Of Week:</string>
+
+    <string name="urgent_camp">Urgent?</string>
+
+    <string name="price_camp">Price:</string>
+    <string name="price_hint">2.50€</string>
+
+    <string name="pending_camp">Pending?</string>
+
+    <string name="repeat_camp">Repeat?</string>
+    <string name="repeat_time_camp">Repeat Time:</string>
+    <string name="repeat_time_hint">2</string>
+
+    <string name="days_radio">Days</string>
+    <string name="weeks_radio">Weeks</string>
+    <string name="months_radio">Months</string>
+    <string name="years_radio">Years</string>
+
+    <!-- Buttons -->
+    <string name="save_changes">Save Changes</string>
+
+    <!-- Fast Item -->
+    <string name="fast_item">Fast Item</string>
+
+    <!-- Days -->
+    <string name="monday">Mon.</string>
+    <string name="tuesday">Tue.</string>
+    <string name="wednesday">Wed.</string>
+    <string name="thursday">Thu.</string>
+    <string name="friday">Fri.</string>
+    <string name="saturday">Sat.</string>
+    <string name="sunday">Sun.</string>
+
+    <!-- Errors -->
+    <string name="error_name_empty">Name can\'t be empty</string>
+    <string name="error_days_to_finish_empty">Days to Finish can\'t be empty</string>
+    <string name="error_days_to_finish_number">Days to Finish must be a number</string>
+    <string name="error_date_posterior">Date cannot be posterior</string>
+    <string name="error_price_number">Price must be a number</string>
+    <string name="error_repeat_time">Repeat Time must be a number</string>
+    <string name="error_date">You must pick a valid date</string>
+    <string name="error_repeat_time_greater_than_zero">Repeat Time must be greater than 0</string>
+    <string name="error_delete_list">At least you must have a list</string>
+
+    <!-- Bottom Text -->
+    <string name="total_lists">Total Lists: %1$d</string>
+    <string name="total_tasks">Total Tasks: %1$d</string>
+    <string name="total_habits">Total Habits: %1$d</string>
+    <string name="total_products">Total Products: %1$d</string>
+    <string name="total_price">Total Price: %1$.2f€</string>
+
+    <!-- Other -->
+    <string name="progress">Progress: %1$d%%</string>
+    <string name="price">%1$.2f €</string>
+    <string name="quantity">%1$d units</string>
+
+    <!-- Dates -->
+    <string name="past">Past</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="seven_days">Seven Days</string>
+    <string name="thirty_days">Thirty Days</string>
+    <string name="future">Future</string>
+    <string name="never">Never</string>
+</resources>
